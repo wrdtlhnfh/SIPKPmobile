@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SIPKP</string>
+    <string name="title_long">Sistem Informasi \nPengelolaan Kerja Praktek</string>
+    <string name="is_first">firstTime</string>
+    <string name="data_kp">kpId</string>
+    <string name="data_id">profileId</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="error_field_required">Data harus diisi</string>
+    <string name="url_image">imageUrl</string>
+    <string name="default_date">Pilih Tanggal</string>
+    <string name="profileNim">nim_profile</string>
+</resources>
